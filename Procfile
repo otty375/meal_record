@@ -1,0 +1,1 @@
+web: java -jar target/meal_record-1.0-SNAPSHOT.jar
