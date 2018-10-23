@@ -1,6 +1,6 @@
 # meal_record
 
-```
+```uml
 @startuml
 
 entity "登録日" {
